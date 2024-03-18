@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+table {
+    background-color:black;
+}
+
+#File-60 {
+    width: 60%;
+    padding: 5%;
+    margin: 10px;
+    background-color: white;
+  
+}
+
+#File-40 {
+    width: 40%;
+    padding: 15px;
+    vertical-align: top;
+    margin: 10px;
+    background-color: rgb(182, 130, 231);
+}
+
+td {
+    
+    border-radius: 10px;
+}
+
+header {
+    padding: 5px;
+    align-items: center;
+}
+
+.social {
+    display: flex;   
+    list-style: none;
+    justify-content: end;
+}
+
+.social li {
+   margin: 15px;
+}
