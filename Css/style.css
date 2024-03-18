@@ -2,9 +2,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 body {
-    background-color: black;
+    background-color: rgb(238, 30, 30);
 }
+
 table {
     background-color:black;
 }
@@ -13,8 +15,7 @@ table {
     width: 60%;
     padding: 5%;
     margin: 10px;
-    background-color: white;
-  
+    background-color: white;  
 }
 
 #File-40 {
@@ -25,8 +26,7 @@ table {
     background-color: rgb(182, 130, 231);
 }
 
-td {
-    
+td {    
     border-radius: 10px;
 }
 
